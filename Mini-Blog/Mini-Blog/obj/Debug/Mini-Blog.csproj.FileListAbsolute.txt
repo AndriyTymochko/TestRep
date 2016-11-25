@@ -1,0 +1,12 @@
+C:\VS\Study\Mini-Blog\Mini-Blog\bin\Debug\Mini-Blog.exe.config
+C:\VS\Study\Mini-Blog\Mini-Blog\bin\Debug\Mini-Blog.exe
+C:\VS\Study\Mini-Blog\Mini-Blog\bin\Debug\Mini-Blog.pdb
+C:\VS\Study\Mini-Blog\Mini-Blog\obj\Debug\Mini-Blog.csprojResolveAssemblyReference.cache
+C:\VS\Study\Mini-Blog\Mini-Blog\obj\Debug\Mini-Blog.exe
+C:\VS\Study\Mini-Blog\Mini-Blog\obj\Debug\Mini-Blog.pdb
+E:\Job\Mini-Blog\Mini-Blog\Mini-Blog\Mini-Blog\bin\Debug\Mini-Blog.exe.config
+E:\Job\Mini-Blog\Mini-Blog\Mini-Blog\Mini-Blog\obj\Debug\Mini-Blog.exe
+E:\Job\Mini-Blog\Mini-Blog\Mini-Blog\Mini-Blog\obj\Debug\Mini-Blog.pdb
+E:\Job\Mini-Blog\Mini-Blog\Mini-Blog\Mini-Blog\bin\Debug\Mini-Blog.exe
+E:\Job\Mini-Blog\Mini-Blog\Mini-Blog\Mini-Blog\bin\Debug\Mini-Blog.pdb
+E:\Job\Mini-Blog\Mini-Blog\Mini-Blog\Mini-Blog\obj\Debug\Mini-Blog.csprojResolveAssemblyReference.cache
