@@ -82,7 +82,7 @@ namespace Mini_Blog.TestData
                     int postsCount = _random.Next(1, postsList.Count + 1);
                     for (ushort i = 1; i <= postsCount; i++)
                         if (x.AddPost(postsList[_random.Next(0, postsList.Count)]))
-                            Console.WriteLine(postsList[_random.Next(0, postsList.Count - 1)].ToString());
+                            Console.WriteLine(x.PostList.LastOrDefault().ToString());
                     Console.WriteLine("-----------------------------------------------------------------");
                 });
                 return new List<IDbDataProvider>(categoryList);
